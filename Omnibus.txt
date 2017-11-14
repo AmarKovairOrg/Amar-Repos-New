@@ -1,0 +1,97 @@
+https://dev18295.service-now.com
+admin/kovair123
+
+1) Project Name will be hardcoded because some tools may not have project.
+
+
+amardeep.1782@gmail.com	/ amard@kovair.com
+Kovair@123 /Service@123
+
+
+https://dev23237.service-now.com
+kovair@123
+
+
+
+/////////////
+#@dev123
+
+/////////Portfolio management////////////////
+https://dev23237.service-now.com/navpage.do
+admin/kovair@123
+Home - > Basic setup - > Plugins -> Project Portfolio Suite -> Activate it 
+
+
+
+meettoamar1782/Kovair@123
+
+////////////////// sales force /////////////////////////////
+
+ap2.salesforce.com
+sonalil@kovair.com
+0kovair0
+
+
+//////////////////////  Service now Helsinki ////////////
+
+developer instance
+amard@kovair.com/Service@123
+
+https://dev14757.service-now.com
+kovair@123
+
+///////////////////////////////////////
+
+D:\KovairApplication\Main\OmnibusAdapters\Service Now Rest\Source\ServiceNowManagerLib\Common\ServiceNowRestCall.cs
+
+Line : 178
+changes condition from if (!String.IsNullOrEmpty(pageWiseResponse)) To if (!String.IsNullOrEmpty(pageWiseResponse) && !pageWiseResponse.Equals("{\"result\":[]}"))
+
+
+/////////////////////// WSAPI ////////////////////////////////////////////////
+
+
+1) Added 2 function GetItemsByFilter ,GetItemIDByItemIdInProject and GetItemByID
+2) Changes in the file of kovairCore\WSAPI\WebServiceManager,service.cs,web.config,GetExternalUrlMetadata.sql,
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+///////////////////////////////////////  RALLY TOOL - ALM,PPM and AGILE //////////////////////////////////////////
+
+https://rally1.rallydev.com/
+bshah@kovair.com
+Kov$2012$air
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////// RTC AND RQM ///////////////////////////////////////////////////////////////
+
+RQM:
+https://jazz6w:9443/qm
+kovair/kovair
+
+RTC:
+https://jazz6w:9443/ccm
+kovair/kovair
+//////////////////////////////////////////////////Pivotal cloud web service///////////////////////////////////////////////////////////////
+
+https://login.run.pivotal.io/login
+uid - amard@kovair.com	
+pass- Admin@123
+
+some command
+API List - https://apidocs.cloudfoundry.org/246/  
+
+Login in application : $ cf login -a api.run.pivotal.io
+cf logs almapp --recent
+Filepath >cf push almapp
+//HTML File
+Filepath > cf push almapp_static -m 500M -b https://github.com/cloudfoundry/staticfile-buildpack.git
+
+// Dotnet core
+Filepath > cf push almapp_net -m 500M -b https://github.com/cloudfoundry/dotnet-core-buildpack.git (Supports only ASP.NET core cross platform supportive)
+Asp.net core -> Ref - https://docs.microsoft.com/en-gb/aspnet/core/ 
+available in VS 2015
+/////////////
+
+https://download.kovair.com/custdownload/AT2
